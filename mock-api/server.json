@@ -1,0 +1,32 @@
+{
+  "students2": [
+    {
+      "id": 1,
+      "studentName": "Huyen",
+      "email": "huyen@gmail",
+      "address": "CM",
+      "phone": "012345"
+    },
+    {
+      "id": 2,
+      "studentName": "Tran",
+      "email": "trann@gmail",
+      "address": "CM",
+      "phone": "543210"
+    },
+    {
+      "id": 501,
+      "studentName": "ghvjbh",
+      "email": " b  bf",
+      "address": "fgfdy",
+      "phone": "xfxfgf"
+    }
+    {
+      "id": 501,
+      "studentName": "ghvjbh",
+      "email": " b  bf",
+      "address": "fgfdy",
+      "phone": "xfxfgf"
+    }
+  ]
+}
